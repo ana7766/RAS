@@ -1,0 +1,5 @@
+PRIJAVA NA ADMIN ACCOUNT 
+US: admin - PASS: admin
+
+PRIJAVA NA KORISNICKI ACCOUNT 
+US: user@mailinator.com - PASS: Test@123

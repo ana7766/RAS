@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parking>
+    <ticket>
+        <type>Satna karta</type>
+        <price currency="BAM">2.00</price>
+    </ticket>
+    <ticket>
+        <type>Dnevna karta</type>
+        <price currency="BAM">10.00</price>
+    </ticket>
+    <ticket>
+        <type>Sedmična karta</type>
+        <price currency="BAM">50.00</price>
+    </ticket>
+    <ticket>
+        <type>Mjesečna karta</type>
+        <price currency="BAM">150.00</price>
+    </ticket>
+</parking>
